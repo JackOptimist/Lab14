@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project14.2</string>
+    <string name="field_1">Поле 1</string>
+    <string name="field_2">Поле 2</string>
+    <string name="insert">Ввод</string>
+    <string name="read">Вывод</string>
+    <string name="delete_database">Удалить</string>
+    <string name="database_result">Данные</string>
+</resources>
